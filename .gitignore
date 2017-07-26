@@ -2,6 +2,8 @@
 .gradle
 build/
 classes/
-out
+out/
 .DS_Store
 *.iml
+drone/db/
+drone/*.env

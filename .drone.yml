@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: openjdk-8-alpine
+    commands:
+      - ./gradlew clean build
